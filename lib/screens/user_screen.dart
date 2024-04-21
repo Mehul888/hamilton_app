@@ -42,7 +42,7 @@ class UserScreen extends StatelessWidget {
                             },
                             child: Container(
                               margin: const EdgeInsets.symmetric(vertical: 8),
-                              padding: const EdgeInsets.all(18),
+                              padding: const EdgeInsets.all(16),
                               decoration: BoxDecoration(
                                 color: Colors.white,
                                 borderRadius: BorderRadius.circular(5),
